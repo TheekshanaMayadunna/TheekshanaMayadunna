@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theekshanamayadunna" alt="theekshanamayadunna" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/theekshana" target="blank"><img src="https://img.shields.io/twitter/follow/theekshana?logo=twitter&style=for-the-badge" alt="theekshana" /></a> </p>
+<p align="left"> <a href="https://twitter.com/theekshana" target="blank"><img src="https://img.shields.io/twitter/follow/@_acteriun_acteriun?logo=twitter&style=for-the-badge" alt="theekshana" /></a> </p>
 
 - 🌱 I’m currently learning **cs50p,cs50x,Matplotlib,Seaborn**
 
