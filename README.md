@@ -7,7 +7,7 @@ Data analytics and Data science
 Passionate Data Science undergrad exploring the power of data. Always learning, coding, and pushing boundaries.
 
 * 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [mayadunnatheekshan@gmail.com](mailto:mayadunnatheekshan@gmail.com)
+* ✉️  You can contact me at [mayadunnatheekshana@gmail.com](mailto:mayadunnatheekshana@gmail.com)
 * 🧠  I'm learning TensorFlow, PyTorch and Scikit-learn
 * 🤝  I'm open to collaborating on projects
 
